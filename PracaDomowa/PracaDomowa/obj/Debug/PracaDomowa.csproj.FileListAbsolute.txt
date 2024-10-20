@@ -1,0 +1,10 @@
+C:\algorytmy\PracaDomowa\PracaDomowa\bin\Debug\PracaDomowa.exe.config
+C:\algorytmy\PracaDomowa\PracaDomowa\bin\Debug\PracaDomowa.exe
+C:\algorytmy\PracaDomowa\PracaDomowa\bin\Debug\PracaDomowa.pdb
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.csproj.AssemblyReference.cache
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.Form1.resources
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.Properties.Resources.resources
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.csproj.GenerateResource.cache
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.csproj.CoreCompileInputs.cache
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.exe
+C:\algorytmy\PracaDomowa\PracaDomowa\obj\Debug\PracaDomowa.pdb
