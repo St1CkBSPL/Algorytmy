@@ -1,0 +1,10 @@
+C:\Users\kacpe\source\repos\Djikstry\bin\Debug\Djikstry.exe.config
+C:\Users\kacpe\source\repos\Djikstry\bin\Debug\Djikstry.exe
+C:\Users\kacpe\source\repos\Djikstry\bin\Debug\Djikstry.pdb
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.Form1.resources
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.Properties.Resources.resources
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.exe
+C:\Users\kacpe\source\repos\Djikstry\obj\Debug\Djikstry.pdb
