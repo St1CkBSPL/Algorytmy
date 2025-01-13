@@ -1,0 +1,10 @@
+C:\Users\kacpe\source\repos\NajdluszyPodciag\bin\Debug\NajdluszyPodciag.exe.config
+C:\Users\kacpe\source\repos\NajdluszyPodciag\bin\Debug\NajdluszyPodciag.exe
+C:\Users\kacpe\source\repos\NajdluszyPodciag\bin\Debug\NajdluszyPodciag.pdb
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.Form1.resources
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.Properties.Resources.resources
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.exe
+C:\Users\kacpe\source\repos\NajdluszyPodciag\obj\Debug\NajdluszyPodciag.pdb
